@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mangas>
+    <manga numero="1">
+        <titulo>Naruto</titulo>
+        <categoria>Shonen</categoria>
+        <preco>29.90</preco>
+        <ano_lancamento>2007</ano_lancamento>
+        <autor>
+            <nomeAutor>Masashi Kishimoto</nomeAutor>
+            <idade>46</idade>
+        </autor>
+        <editora>
+            <nome>Panini Brasil Ltda</nome>
+            <endereco>
+                <logradouro>Al Caiapos, 425</logradouro>
+                <cidade>Tambore</cidade>
+                <estado>SP</estado>
+            </endereco>
+        </editora>
+        <!--Mangá adicionado via CRUD-->
+    </manga>
+    
+    <manga numero="2">
+        <titulo>Boruto</titulo>
+        <categoria>Shonen</categoria>
+        <preco>29.90</preco>
+        <ano_lancamento>2018</ano_lancamento>
+        <autor>
+            <nomeAutor>Masashi Kishimoto</nomeAutor>
+            <idade>46</idade>
+        </autor>
+        <editora>
+            <nome>Panini Brasil Ltda</nome>
+            <endereco>
+                <logradouro>Al Caiapos, 425</logradouro>
+                <cidade>Tambore</cidade>
+                <estado>SP</estado>
+            </endereco>
+        </editora>
+        <!--Arquivo gerado por CRUD-->
+    </manga>
+</mangas>
